@@ -8,11 +8,6 @@ By Bar Mayo, Tamir Hazan and Ayellet Tal (CVPR 2021).
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](figs/step-1_fix1_s.png)  |  ![](figs/obs1_s.png)  |  ![](figs/att1_gray_s.png)  |  ![](figs/obs_SAVN1_s.png)
 
-There is a lot to learn about a task by actually attempting it! Learning is continuous, i.e. we learn as we perform.
-Traditional navigation approaches freeze the model during inference (top row in the intuition figure above). 
-In  this  paper,  we  propose a self-addaptive agent for visual navigation that learns via self-supervised
-interaction with the environment (bottom row in the intuition figure above).
-
 We present a novel attention probability model for visual navigation tasks. This attention encodes semantic information about observed objects, as well as   spatial information about their place. This combination of the "what" and the "where" allows the agent to navigate toward the sought-after object effectively.
 In the figure above (a) The agent aims at finding a TV (red rectangle) in a living room (top view), starting from a given location (black circle). Our agent's path is marked in orange and [SAVN](https://arxiv.org/abs/1812.00971) path is in magenta. At each step, the agent is given a specific view, depending on its position. In this example, our agent starts by turning around in its starting location to gather information---a strategy it has learned. (b) shows our agent's view before the first move forward, whereas (d) shows [SAVN](https://arxiv.org/abs/1812.00971) view before its first move forward.
 
