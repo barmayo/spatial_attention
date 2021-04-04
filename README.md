@@ -116,5 +116,6 @@ python full_eval.py \
 cat eotp_results.json
 ```
 
-#### Acknowledgement
+## Acknowledgement
+
 In this work we based our code on [savn](https://github.com/allenai/savn/) implementation. Please cite the original [savn](https://arxiv.org/abs/1812.00971) if you use their part of the code.
