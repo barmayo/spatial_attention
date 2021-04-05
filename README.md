@@ -43,7 +43,7 @@ If you find this project useful in your research, please consider citing:
 
 - Install the necessary packages. If you are using conda then simply run 'conda create --name <env> --file requirements.txt`.
 
-- Download the [pretrained models](https://??) and
+- Download the [pretrained models](https://cgm.technion.ac.il/Computer-Graphics-Multimedia/Software/Bar/pretrained_models.tar.gz) and
 [data](https://prior-datasets.s3.us-east-2.amazonaws.com/savn/data.tar.gz) to the `eotp` directory. Untar with
 ```bash
 tar -xzf pretrained_models.tar.gz
