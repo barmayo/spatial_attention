@@ -69,7 +69,7 @@ Use the following code to run the pretrained models on the test set. Add the arg
 python main.py --eval \
     --test_or_val test \
     --episode_type TestValEpisode \
-    --load_model pretrained_models/EOTP_A2C_alpha_SE_66502810_4500000_2020-09-28_09/06/40.dat \
+    --load_model pretrained_models/EOTP_A2C_alpha_SE_66502810_4500000_2020-09-28_09:06:40.dat \
     --model EOTP \
     --results_json eotp_a2c_test.json 
 
@@ -81,7 +81,7 @@ cat eotp_a2c_test.json
 python main.py --eval \
     --test_or_val test \
     --episode_type TestValEpisode \
-    --load_model pretrained_models/EOTP_final_75614446_5000000_2020-10-09_16/54/35.dat \
+    --load_model pretrained_models/EOTP_final_75614446_5000000_2020-10-09_16:54:35.dat \
     --model EOTP \
     --results_json eotp_a3c_test.json 
 
