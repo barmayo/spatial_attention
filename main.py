@@ -29,13 +29,13 @@ def main():
 
     # ==================================================== Manual ==================================================== #
     # ---------------------------------------------------- Train ----------------------------------------------------- #
-    args.title = "EOTP"
-    args.load_model = None
-    args.gpu_ids = [0,1]
-    args.workers = 12
-    args.model = 'EOTP'
-
-    print(args.title)
+    # args.title = "EOTP"
+    # args.load_model = None
+    # args.gpu_ids = [0,1]
+    # args.workers = 12
+    # args.model = 'EOTP'
+    #
+    # print(args.title)
     # -------------------------------------------------- Test\Val ---------------------------------------------------- #
     # args.eval = True
     # args.episode_type = "TestValEpisode"
