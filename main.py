@@ -39,7 +39,6 @@ def main():
     # -------------------------------------------------- Test\Val ---------------------------------------------------- #
     # args.eval = True
     # args.episode_type = "TestValEpisode"
-    # #args.test_or_val ='test'
     # args.test_or_val = 'val'
     # args.load_model = './trained_models/EOTP_A2C_alpha_SE_66502810_4500000_2020-09-28_09:06:40.dat'
     # args.model = 'EOTP'
