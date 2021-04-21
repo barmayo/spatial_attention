@@ -2,7 +2,7 @@
 
 By Bar Mayo, Tamir Hazan and Ayellet Tal (CVPR 2021).
 
-[CVPR 2021 Paper ](https://arxiv.org/abs/1812.00971) | [Video](https://) | [BibTex](#citing)
+[CVPR 2021 Paper ](https://arxiv.org/abs/2104.09807) | [Video](https://) | [BibTex](#citing)
 
 (a) Paths            | (b) Our's agent view            | (c) Our attention          | (d) [SAVN](https://arxiv.org/abs/1812.00971) agent view
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -16,12 +16,13 @@ In the figure above (a) The agent aims at finding a TV (red rectangle) in a livi
 If you find this project useful in your research, please consider citing:
 
 ```
-@InProceedings{????,
-  author={Bar Mayo and Tamir Hazan and Ayellet Tal},
-  title={Visual Navigation with Spatial Attention},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  month = {June},
-  year = {2021}
+@misc{mayo2021visual,
+      title={Visual Navigation with Spatial Attention}, 
+      author={Bar Mayo and Tamir Hazan and Ayellet Tal},
+      year={2021},
+      eprint={2104.09807},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
