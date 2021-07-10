@@ -2,7 +2,7 @@
 
 By Bar Mayo, Tamir Hazan and Ayellet Tal (CVPR 2021).
 
-[CVPR 2021 Paper ](https://arxiv.org/abs/2104.09807) | [Video](https://) | [BibTex](#citing)
+[CVPR 2021 Paper ](https://arxiv.org/abs/2104.09807) | [BibTex](#citing)
 
 (a) Paths            | (b) Our's agent view            | (c) Our attention          | (d) [SAVN](https://arxiv.org/abs/1812.00971) agent view
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
